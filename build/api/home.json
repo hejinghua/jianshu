@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/1653720/crop1534423210215.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 2,
+        "title": "摄影",
+        "imgUrl": "//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 3,
+        "title": "短篇小说",
+        "imgUrl": "//upload.jianshu.io/collections/images/11/20100120161805563.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 4,
+        "title": "旅行·在路上",
+        "imgUrl": "//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 5,
+        "title": "程序员",
+        "imgUrl": "//upload.jianshu.io/collections/images/16/computer_guy.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 6,
+        "title": "@IT·互联网",
+        "imgUrl": "//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 7,
+        "title": "故事",
+        "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      },
+      {
+        "id": 8,
+        "title": "哲思",
+        "imgUrl": "//upload.jianshu.io/collections/images/39/332293730045332541.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+      }
+    ],
+    "articleList": [{
+        "id": 1,
+        "title": "口述： 金融圈80 - 500 万年薪人群里混乱的男女关系",
+        "abstract": "金融圈每隔一段时间就会出现的各类爆料似乎不断助长着人们的想象力，现实版《华尔街之狼》的桥段不知什么时候就成了很多人茶余饭后的谈资。 而据国外著名...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/7309859-73e8a824c81e5e5d?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "16个小技巧让你每天都进步（附：提高效率的100条建议）",
+        "abstract": "16个小技巧让你每天都进步 一.睡前花3分钟反思 反思今天的所做所为，有哪些做得好，有哪些做的不好，有哪些可以改进。 我现在睡前都会思考今天学习...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/4501092-0ed25d2a95c4e615?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 3,
+        "title": "从120斤到95斤的经验分享",
+        "abstract": "文章分为五个部分： 1.写在前面的话 2.120斤与95斤 3.减肥方法分析 4.饮食与运动（干货） 5.写在最后 一、写在前面的话 我一直觉得...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/1803143-afc452e7d043d5d5.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 4,
+        "title": "董卿又一次惊艳了中国！",
+        "abstract": "董卿，集美丽、智慧和优雅于一身的女人。 董卿主持《中国诗词大会》和《朗读者》，她惊艳了整个中国。 5月14号下午，董卿，主持“一带一路”国际合作...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/7550898-80713aae5caf88d1.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ]
+  }
+}
